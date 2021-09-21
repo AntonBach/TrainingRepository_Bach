@@ -1,0 +1,3 @@
+[submodule "SubmoduleRepository_Bach"]
+	path = SubmoduleRepository_Bach
+	url = https://github.com/AntonBach/SubmoduleRepository_Bach.git
